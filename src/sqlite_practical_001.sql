@@ -1,6 +1,6 @@
 -- database: ../runtime/db/starwars.db
 -- Practical 1: Datbases and Tables
--- Student Name: [Your Name]
+-- Student Name: [Lloyd Ngyuyen]
 -- Date: [Today's Date]
 --
 -- This script creates the Star Wars characters database
