@@ -22,7 +22,7 @@ INSERT INTO characters (name, species, homeworld) VALUES
     ('Chewbacca', 'Wookiee', 'Kashyyyk'),
     ('Obi-Wan Kenobi', 'Human', 'Stewjon'),
     ('Darth Vader', 'Human', 'Tatooine'),
-    ('Yoda', 'species', 'Unknown'),
+    ('Yoda', 'Species', 'Unknown'),
     ('R2-D2', 'Droid', 'Naboo');
 
 -- View all characters
